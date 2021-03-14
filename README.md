@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SlavicMan
+- 👀 I’m interested in doing programming (pretty obvious I know)
+- 🌱 I’m currently learning multiple languages such as HTML, CSS and JS for my website and I am also learning C#, JAVA and LUA for other projects
