@@ -6,6 +6,7 @@ I do stuff
   JS
   CSharp
   Java
+# Learning More
 
 ## Hobbies:
   create things or something idk
