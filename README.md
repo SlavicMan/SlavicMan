@@ -1,4 +1,4 @@
-I do stuff
+# I do stuff
 
 ## Languages and stuff:
   HTML
@@ -6,7 +6,7 @@ I do stuff
   JS
   CSharp
   Java
-# Learning More
+### Learning More
 
 ## Hobbies:
   create things or something idk
