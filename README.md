@@ -4,8 +4,9 @@
   HTML
   CSS
   JS
-  CSharp
-  Java
+  TS
+  C#
+  
 ###### Learning More
 
 ## Hobbies:
