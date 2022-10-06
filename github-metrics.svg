@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 6 Oct 2022, 14:30:48
+Last generated: 6 Oct 2022, 15:25:33
 </div>
 <div class="stdin"><span class="ps1-path">unbazinga@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>unbazinga</b> registered=3y, uid=8716, gid=1
   contributed to 19 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span></b>
@@ -64,20 +64,20 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── Apache-2.0
 
-<span class="diff">@@ -121 +14.7k @@</span>
+<span class="diff">@@ -122 +91.2k @@</span>
 </div>
-<div class="stdin"><span class="ps1-path">unbazinga@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C#          </b> [#######             ] 33.52%
-<b>SHADERLAB   </b> [######              ] 27.88%
-<b>ASP.NET     </b> [####                ] 15.21%
-<b>JAVASCRIPT  </b> [###                 ] 12.19%
-<b>HLSL        </b> [#                   ] 4.69 %
-<b>JAVA        </b> [#                   ] 3.60 %
-<b>HTML        </b> [#                   ] 1.50 %
-<b>SVELTE      </b> [#                   ] 1.42 %
+<div class="stdin"><span class="ps1-path">unbazinga@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>C#          </b> [####################] 95.36%
+<b>SHADERLAB   </b> [#                   ] 1.97 %
+<b>ASP.NET     </b> [#                   ] 1.04 %
+<b>JAVASCRIPT  </b> [#                   ] 0.83 %
+<b>HLSL        </b> [#                   ] 0.36 %
+<b>JAVA        </b> [#                   ] 0.25 %
+<b>HTML        </b> [#                   ] 0.10 %
+<b>SVELTE      </b> [#                   ] 0.10 %
 </div>
 
 
-<footer>Connection reset by 6.171.30.233</footer></pre>
+<footer>Connection reset by 57.67.193.79</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
