@@ -1,4 +1,4 @@
-# Unbazinga - I do things. #### *sometimes.*
+# Unbazinga - I do things. *sometimes.*
 
    am I dumb? **Yes**
 
