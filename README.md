@@ -6,4 +6,4 @@
  ***bruh***
 
 ## I can't get my metrics to work so have a cat
-![cat](https://github.com/viadot/viadot/blob/9adc09dc672dd152f5230576d70b53f654c22d47/photo-1529778873920-4da4926a72c2.jpg =500x666)
+<img src="https://github.com/viadot/viadot/blob/main/photo-1529778873920-4da4926a72c2.jpg?raw=true" height="500" width="666">
